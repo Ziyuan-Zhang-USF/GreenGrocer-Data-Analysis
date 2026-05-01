@@ -1,7 +1,7 @@
 # GreenGrocer Data Analysis
 
 ## Project Overview
-This project was completed for **Module 12: Business Analytics Fundamentals and Applications**. It simulates and analyzes operational data for GreenGrocer, a Florida-based grocery store chain, using business analytics techniques. The project applies descriptive, diagnostic, and predictive analytics to evaluate store performance, customer behavior, and future growth opportunities.
+This project was completed for Business Analytics Fundamentals and Applications**. It simulates and analyzes operational data for GreenGrocer, a Florida-based grocery store chain, using business analytics techniques. The project applies descriptive, diagnostic, and predictive analytics to evaluate store performance, customer behavior, and future growth opportunities.
 
 ## Objectives
 The main goals of this project are to:
